@@ -4,6 +4,8 @@
 
 A simple HTML+CSS+JS minisite that will generate a randomized title and sinopsis for a made up game in the Castlevania series. The title will be follow the structure "Castlevania: XXXX of YYYY" picking from two arrays, while the sinopsis will be a sort of limerick using story staples of the series. The whole thing will be styled to look gloomy and goth, and to look good on both mobile and desktop browsers.
 
+Just in time for Halloween!
+
 ---
 
 ## How I'm building it
